@@ -70,6 +70,7 @@ textarea{
   transition: all .3s ease-in-out;
 }
 
+/* My additions */
 .row {
   display: flex;
 }
