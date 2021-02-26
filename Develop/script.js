@@ -4,6 +4,8 @@ let a = moment().format("A");
 let row = document.querySelectorAll(".row");
 let array = [];
 let save = document.querySelectorAll(".saveBtn");
+let today = document.querySelector("#currentDay");
+today.innerHTML = moment().format("dddd, MMMM Do");
 
 //Creates an array of text elements that contains the times of each row
 for (i = 0; i < row.length; i++) {
