@@ -11,7 +11,7 @@
 [Contact](#Contact)
 
 ## Link
-https://dalto135.github.io/work_day_scheduler/
+https://dalto135.github.io/work-day-scheduler/
 
 ## Technologies
 HTML, CSS and Javascript
