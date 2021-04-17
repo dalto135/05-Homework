@@ -20,8 +20,8 @@ HTML, CSS and Javascript
 A daily planner that displays today's date and a layout of today's work hours. The user can input text into each hour block and click save, saving the input even when the page is refreshed.
 
 ## Screenshots
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 1](assets/images/screenshot1.png)
+![Screenshot 2](assets/images/screenshot2.png)
 
 ## License
 MIT
