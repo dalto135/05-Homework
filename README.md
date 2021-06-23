@@ -27,4 +27,4 @@ A daily planner that displays today's date and a layout of today's work hours. T
 MIT
 
 ## Contact
-Dalton Wilkins - wilkins.271@osu.edu
+Dalton Wilkins - daltongh@gmail.com
